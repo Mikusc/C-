@@ -1,3 +1,4 @@
+//𝜋/4≈1−1/3+1/5−1/7+...+(−1)^(𝑛−1)×1/(2𝑛−1)
 #include <iostream>
 #include <cmath>
 using namespace std;
