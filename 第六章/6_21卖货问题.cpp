@@ -4,7 +4,7 @@ class Goods{
 public:
     Goods(int w){
         weight = w;
-        total_weight += w;
+        total_weight += weight;
     }
     ~Goods(){
         total_weight -= weight;
