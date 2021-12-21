@@ -1,3 +1,4 @@
+//某商店经销一种货物。货物购进和卖出时以箱为单位，各箱的重量不一样，因此，商店需要记录目前库存的总重量。现在用C++模拟商店货物购进和卖出的情况。 
 #include <iostream>
 using namespace std;
 class Goods{
