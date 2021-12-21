@@ -1,3 +1,4 @@
+//建立一个描述3维坐标的类 Tri_Coor，重载运算符 “+”、“++”、和 “=” ，实现简单的算术运算
 #include <iostream>
 using namespace std;
 class TriCoor{
