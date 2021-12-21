@@ -1,3 +1,4 @@
+//定义一个求 bin ( n, k ) 的函数，𝑏𝑖𝑛(𝑛,𝑘)=𝑛!/(𝑘!(𝑛−𝑘)!)
 #include <iostream>
 using namespace std;
 long fact(int m);
