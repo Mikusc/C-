@@ -64,7 +64,7 @@ int main(){
                 sale(front,rear);
                 break;
             case 3:
-                cout<<"当前仓库货物总重量为："<<Goods::getTotalWeight<<endl;
+                cout<<"当前仓库货物总重量为："<<Goods::getTotalWeight()<<endl;
                 break;
             case 0:
                 break;
